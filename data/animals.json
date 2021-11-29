@@ -146,7 +146,7 @@
       "id": "14"
     },
     {
-      "name": "Larry", 
+      "name": "Larry",
       "species": "lemur",
       "diet": "omnivore",
       "personalityTraits": [
@@ -173,4 +173,4 @@
       "id": "17"
     }
   ]
-} 
+}
